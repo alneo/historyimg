@@ -1,0 +1,7 @@
+requests
+python-dotenv
+json
+uuid
+websocket
+googletrans
+Pillow

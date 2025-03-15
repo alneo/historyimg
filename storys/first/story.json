@@ -1,0 +1,56 @@
+{
+    "name": "Первая история",
+    "description": "",
+    "persons": [
+        {
+            "name": "Сатаней",
+            "description": "Тонкобровая. Мать и воспитательница нартов, мудрая наставница и советчица, хозяйка и распорядительница всего нартского хозяйства, женщина неувядающей красоты. Организатор, глава нартского общества, её авторитет непререкаем."
+        },
+        {
+            "name": "Псыж",
+            "description": "горная река"
+        },
+        {
+            "name": "пастух",
+            "description": "простолюдин одет в обычные одежды, имеет посох"
+        }
+    ],
+    "scenes": [
+        {
+            "name": "01",
+            "text": "Тонкобровая Сатаней полоскала в реке белье. Она полоскала его там, где обычно чистила кольчуги.",
+            "description": "Девушка [Сатаней] сидит на берегу реки и полоскает в реке белье. На заднем фоне кавказские горы, на другом берегу в далеке пастух пасущий коров",
+            "prompt": "The girl Satan (Subarobrovka. Mother and educator of sledges, a wise mentor and adviser, the mistress and manager of the entire Nart economy, a woman of unfading beauty. Organizer, the head of the Nart society, her authority is indisputable.) Sits on the banks of the river and rinses in the river underwear. In the background of the Caucasian mountains, on the other side in the far, shepherd grazing cows",
+            "result": {
+                "prompt_id": "f5c93998-f95f-4375-88ea-8126e54e9729",
+                "number": 66,
+                "node_errors": {}
+            },
+            "photo": "ComfyUI_00182_.png"
+        },
+        {
+            "name": "02",
+            "text": "На другом, луговом берегу Псыжа пастух из нартского селения пас коров. ",
+            "description": "На луговом берегу [Псыж] стоит [пастух] в руке посох в далеке видны пасущиеся коровы. На заднем фоне Кавказские горы.",
+            "prompt": "On the meadow shore, the psyzha (mountain river) stands a shepherd (commoner dressed in ordinary clothes, has a staff) in the hand of a staff in the far, grazing cows are visible. In the background of the Caucasian mountains.",
+            "result": {
+                "prompt_id": "0d1c6b30-fe36-4bb9-942d-ad301f0b0dae",
+                "number": 67,
+                "node_errors": {}
+            },
+            "photo": "ComfyUI_00183_.png"
+        },
+        {
+            "name": "03",
+            "text": "Увидев Сатаней, пастух сперва застыл в изумлении, а придя в себя, быстро подошел к реке.",
+            "description": "[пастух] с счастливым лицом стоит оперевшись на посох. На переднем плане виден берег реки на заднем фоне Кавказские горы с ярким солнцем.",
+            "prompt": "The shepherd (commoner is dressed in ordinary clothes, has a staff) with a happy face, standing with a leaning into the staff. In the foreground, the banks of the river on the background Caucasian mountains with a bright sun are visible.",
+            "result": {
+                "prompt_id": "aa63657d-e362-4286-b918-0a952f71dfa4",
+                "number": 68,
+                "node_errors": {}
+            },
+            "photo": "ComfyUI_00184_.png"
+        }
+    ]
+}
